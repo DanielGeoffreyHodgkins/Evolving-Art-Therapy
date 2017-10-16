@@ -1,5 +1,3 @@
-# placeholder
+# Paper.js based Evolving Art Designs
 
-Well held, Dan.
-
-Can I commit suicide
+Project to turn my final project from faux genetic to functioning genetic algorithm
